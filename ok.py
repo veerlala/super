@@ -139,7 +139,7 @@ def reg():
         logo()
         input(' \x1b[1;93m[\x1b[1;97mP\x1b[1;93m]\x1b[1;94m SELECT NUMBER\x1b[1;93m : \x1b[1;92m')
         print (' \x1b[1;93m[\x1b[1;97mL\x1b[1;93m]\x1b[1;94m LA BOCIL WANY\x1b[1;96m FREE')
-        print (' \x1b[1;93m[\x1b[1;97mS\x1b[1;93m]\x1b[1;94m IT'S HARD TO MAKE BOSQUE')
+        print (' \x1b[1;93m[\x1b[1;97mS\x1b[1;93m]\x1b[1;94m SUSAH BIKINNYA BOSQUE')
         input(' \x1b[1;93m[\x1b[1;97mG\x1b[1;93m]\x1b[1;94m CAN'T YES\x1b[1;96m GOBLOK \x1b[1;97mLU\x1b[1;96m CIL\x1b[1;97m : \x1b[1;92m')
         print(' THE CHANGCUTERS VISION MISSION ')
         os.system('xdg-open https://wa.me/+923439635677?text=Assalamualaikum Sir Approve my Token and my Token :'+to)
